@@ -24,4 +24,4 @@ This repository contains clean, organized subject-wise notes for **Diploma in Co
 
 ---
 
-👨‍🎓 **Made by:** Gaurav Kumar – Diploma CSE (5th Semester)
+👨‍🎓 **Made by:** Gaurav Kumar – Diploma IT (5th Semester)
